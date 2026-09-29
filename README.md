@@ -20,6 +20,14 @@ Response:
 { "message": "API called Successfully" }
 ```
 
+## Get user
+
+```
+GET http://localhost:3000/get-user
+```
+
+Returns a static user object under the `user` key.
+
 ## Docker
 
 ```
